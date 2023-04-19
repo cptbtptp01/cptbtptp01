@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 ### I'm a computer science student in Seattle, WA. 
 - I'm passionate about **exploring unknown**
-- I enjoy **solving problems**, **reading manuals**
-- Curious about a lot of things!
-- On a never-ending quest of learning
+- I enjoy **solving problems**, **reading manuals**, & **coffee**
+- I'm **detail-oriented**
+- Curious about **a lot of things**!
+- On a **never-ending** quest of learning
 - *Fun fact: I was an architectural designer before!*
+### Skills  
+- Improving mode: `python`, `git`, `terminal`, `vim`
+- Learning mode: `javascript`, `c++`,`flask`...
