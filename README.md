@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋 Hi there!
 
 <!--
 **cptbtptp01/cptbtptp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I'm a computer science student in Seattle, WA. 
+- I'm passionate about **exploring unknown**
+- I enjoy **solving problems**, **reading manuals**
+- Curious about a lot of things!
+- On a never-ending quest of learning
+- *Fun fact: I was an architectural designer before!*
