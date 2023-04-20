@@ -1,5 +1,4 @@
-## 👋 Hi there!
-
+## <img src="https://media4.giphy.com/media/cOR2fPCZgErzi6COcG/giphy.gif?cid=ecf05e47tm0mge1cvd6gl0sf8mt2tdlhzq17q3h579lry611&rid=giphy.gif&ct=s" width=5% height=5%> Hi there!
 <!--
 **cptbtptp01/cptbtptp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
